@@ -1,6 +1,3 @@
-Here’s the README file with all asterisks removed from the headers:
-
----
 
 # Drowsiness Detection System
 
